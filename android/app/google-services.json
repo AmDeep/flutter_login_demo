@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "394008708625",
+    "firebase_url": "https://purity-c0f9a-default-rtdb.firebaseio.com",
+    "project_id": "purity-c0f9a",
+    "storage_bucket": "purity-c0f9a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394008708625:android:4ab386d509738545ae53b0",
+        "android_client_info": {
+          "package_name": "com.example.flutter_fire_base_register"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "394008708625-023jai73rs4557o56hgepgrrmbnmjhv2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSvyxG2G8D0M-Q29lc7lsV83uKRkuBMeE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "394008708625-023jai73rs4557o56hgepgrrmbnmjhv2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "394008708625-hf4re3dgvg4gket83uh67e3h50eh4oqf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Ariana.PurityApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
